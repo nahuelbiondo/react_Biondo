@@ -1,0 +1,17 @@
+.header{
+    width: 100%;
+    background-color: #b6f9bb;
+    display: flex;
+justify-content: center;
+}
+
+li{
+    display: flex;
+    text-decoration: none;
+    justify-content: center;
+    color: black;
+}
+a{
+    padding: 1rem;
+    color: black;
+}
